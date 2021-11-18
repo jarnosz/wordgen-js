@@ -1,0 +1,6 @@
+10
+BASE=<SYL><C>,<SYL><SYL><C>,<SYL><SYL><SYL><C>
+SYL=<C><V>
+C=b,l,k,kh,g,r,t,d,h,sh,gr,kr,grm,krm,p,gh,zh,ng,nk,n,',w,m,v,f,j,c,z,s,dh,th,y
+V=a,e,i,o,u,ae,ee,ie,oe,ue,aa,oo
+UNUSED=q,x

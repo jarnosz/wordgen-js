@@ -1,0 +1,7 @@
+5
+BASE=<FIN>,<SYL><FIN>,<SYL><SYL><FIN>,<SYL><SYL><SYL><FIN>
+FIN=<C><V>h<F>,<C><V><F>,<C><V>,<C><V>
+SYL=<C><V>h,<C><V>,<C><V>
+V=a,ae,ai,au,e,o,oa,oi,u,ua,ui,uu,ii
+C=b,c,d,f,g,h,j,k,l,m,n,ng,p,r,s,t,v,w,x,y,z
+F=k,g,n,r,s,m

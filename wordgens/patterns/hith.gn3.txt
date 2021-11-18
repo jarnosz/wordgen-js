@@ -1,0 +1,12 @@
+20
+BASE=<SINGLE>,<OPEN><AFTER_OPEN>,<CLOSED><AFTER_CLOSED>,<CLOSED><AFTER_OPEN>
+SINGLE=<I><L><V>,<I><L><V><C>,<I><L><V><R>,<I><L><V><R><C>,<I><V>,<I><V><C>,<I><V><R>,<I><V><R><C>,<L><V>,<L><V><C>,<L><V><R>,<L><V><R><C>
+OPEN=<I><L><V>,<L><V>,<I><V>
+CLOSED=<I><L><V><C>,<I><L><V><R>,<I><L><V><R><C>,<I><V><C>,<I><V><L>,<I><V><R>,<I><V><R><C>,<I><V><R><L>,<L><V><C>,<L><V><R>,<L><V><R><C>
+AFTER_OPEN=<I><L><V>,<I><L><V><C>,<I><L><V><R>,<I><L><V><R><C>,<I><V>,<I><V><C>,<I><V><R>,<I><V><R><C>,<L><V>,<L><V><C>,<L><V><R>,<L><V><R><C>
+AFTER_CLOSED=<V>,<V><C>,<V><L>,<V><R><C>
+I=ch,f,h,k,m,n,ng,p,s,sh,st,t,th
+L=l,r,w,y
+V=a,â,e,ê,i,î,o,ô,ou,u,û,ü
+R=f,l,m,n,r
+C=k,s,sh,sk,st,t,th

@@ -1,0 +1,10 @@
+20
+BASE=<V><FINAL>,<INIT><V>,<INIT><V><FINAL>
+INIT=<C>,<B><R>
+FINAL=<C>,<N><D>
+C=b,p,g,k,s,z,d,t
+V=a,o,e,u
+R=r,l,w
+N=n,r,l
+D=g,k,z,t,d
+B=b,p,g,k

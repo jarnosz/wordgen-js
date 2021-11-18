@@ -1,0 +1,11 @@
+20
+BASE=<X>,<Y><Z>,<Y><W><Z>
+Y=<I><V>,<I><V><C>,<V>,<V><C>
+W=<B><V>,<B><V><C>,<V><C>,<V>
+Z=<B><V><F>,<V><F>,<B><V>,<V>
+X=<I><V><F>,<V><F>,<I><V>,<V>
+I=b,f,h,l,m,n,r,sh,s,v,w,y,zh,z,sn,sm,vl,bl,fl
+B=b,f,h,l,m,n,r,sh,s,v,w,y,zh,z
+V=a,e,i,o,u,â,ê,î,ô,û,ü,ä
+C=b,f,l,m,n,r',sh,s,v,zh,z
+F=b,f,l,m,n,r,sh,s,v,zh,z,lf,lp,lv,ls,ns,ms,nz,mz,lsh,lzh,nsh,nzh

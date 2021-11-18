@@ -1,0 +1,6 @@
+20
+BASE=<C><F>,<C><V><B><F>,<C><V><C><F>,<C><V><C><F><C><V><C><F>,<C><V><C><V><C><F>,<C><V><C><V><C><F><F><C><V><V><C><F>,<C><V><V><V><C><F>,<V><B><F>,<V><B><V>,<V><C><F>,<V><C><V>,<V><C><V><C><F>,<V><C><V><C><V>,<V><C><V><C><V><C><F>
+V=a,a,a,a,a,e,e,e,e,i,i,i,i,i,o,o,o,o,u,u,u,a,a,e,e,i,i,o,o,u,u,ae,oe,ei,au,au,eu
+C=b,c,c,c,c,c,d,d,d,d,d,f,f,f,g,h,h,j,l,l,l,m,m,m,m,n,n,n,n,p,p,p,p,qu,r,r,r,r,s,s,s,s,s,t,t,t,v,v,v,x,qu,qu
+B=lp,lt,lc,lb,ld,lg,lv,ln,mp,nt,nc,mb,nd,ng,nf,ns,nx,nqu,nv,pl,cl,bl,dl,gl,pr,tr,cr,br,dr,gr,fl,fr,pt,sp,st,sc,str,squ,bs,bt,gn,rp,rt,rc,rb,rd,rg,rv,rn,rx,rm,rs,dv,dm,dj,xp,xpl,xh,xt,xc,xtr,xs,bb,cc,dd,ff,gg,ll,mm,nn,mm,nn,ll,pp,pp,rr,rr,ss,ss,ss,ss,ss,tt,tt,tt,tt
+F=a,us,um,is,ere,ere,ir,ari,eri,i,iri,are,e,ans,ens,iens,ar,or,ir,er,ur,atio,atio,as,as,is,is,os,am,em,alis,alis,alis,alia,ix,ex,ator,etor,itor,atura,ium,ido,ulum,alum,ilum,amen,rum,ulus,olus,iculus,itas,itudo,ax,idus,ilis,ilis,ilis,abilis,eus,inus,ius,icus,ilis,alis,alis,aris,aris,aris,arius,anus,inus,ivus,ensis,osus,osus,ianus,olus,ellus,ernus,ascare,iscareescareatim,atus,atus,atus,iter,iter,iter

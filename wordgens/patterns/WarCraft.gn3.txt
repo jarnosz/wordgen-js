@@ -1,0 +1,11 @@
+5
+BASE=<SING LE>,<INI SYL><FIN SYL>
+SING LE=<I><V>,<I><V><F>,<I><V><R>,<I><V><R><F>
+INI SYL=<I><V>,<I><V><C>,<I><V><R>,<I><V><R><C>
+FIN SYL=<B><V>,<B><V><R>,<B><V><R><F>,<B><V><F>,<V>,<V><R>,<V><R><F>,<V><F>
+F=c,d,de,dr,g,gg,gh,l,m,me,n,ne,s,th,vh,z
+C=d,g,l,m,n,s,t,th,x,z
+R=l,n,r,w
+V=a,ae,ai,e,ee,i,ie,o,u,y
+B=b,d,f,g,h,j,k,l,m,n,r,s,st,str,t,th,w,z,zh
+I=b,c,ch,d,dr,f,g,gn,gr,h,j,k,kh,kr,l,ll,m,n,p,pr,qu,rh,s,str,t,th,thr,tr,v,wr,y

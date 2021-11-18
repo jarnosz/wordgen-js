@@ -1,0 +1,9 @@
+15
+BASE=<V>,<C><VOWEL>,<V><C>,<C><VOWEL><C>,<V><C><V>,<VOWEL><C><F>,<C><VOWEL><C><F>,<VOWEL><CONS><V><C><F>,<V><CONS><VOWEL><C><F>,<C><VOWEL><CONS><V><C><F>,<C><V><CONS><VOWEL><C><F>
+VOWEL=<V>,<D>
+CONS=<C>,<B>
+V=a,e,i,o,u
+D=io,ia,ie,ua,ai,ei,ui,eu,oi
+C=p,b,t,d,c,g,f,v,s,j,y,ch,m,n,ny,l,r,qu,z,pl,pr,bl,br,tr,dr,cr,cl,gl,gr,fl,fr,sl,m,n,ll,rr
+F=o,a,e,er,ir,ado,ada,acion,anta,ienta,iento,amente,encia,ico,ica,al
+B=mp,mb,nt,nd,nc,ng,ns,ngu,sp,st,sc,sl,rn,rp,rt,rc,rg,rm,zc,zg,pr,pl,br,bl,tr,tl,dr,gl,gr,fl,fr,nch,nr,ct,gu,pt,lt,lg,ld,lp,ls,lz,lch,fr,ft

@@ -1,0 +1,5 @@
+20
+BASE=<S><S>,<S><S><S>,<S><S><S><S>,<V><S>,<V><S><S>,<V><S><S><S>
+S=<C><V>
+V=au,a,i,e,u,o,ai
+C=k,w,',n,h,p,m,l,b,d,g,s,t,z

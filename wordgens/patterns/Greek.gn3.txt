@@ -1,0 +1,10 @@
+5
+BASE=<INIT><MID><FINAL>,<INIT>V,<MID><FINAL>
+FINAL=<C><F>,<B><F>,<F>
+INIT=<C>,<I>
+MID=<V>,<V><C><V>,<V><B><V>
+C=b,b,g,g,g,d,d,d,d,z,th,th,th,k,k,k,k,l,l,l,l,l,m,m,m,m,m,n,n,n,n,n,n,ch,ch,ch,x,p,p,p,p,p,r,r,r,r,r,r,s,s,s,s,s,s,s,s,t,t,t,t,t,t,ph,ph,ph,ps
+V=a,a,a,a,a,a/,e,e,e,e,e/,e/,e/,i,i,i,i/,o,o,o,o,o,o,w,w,w,u,u/,ai,ai,ai,ei,ei,ei,oi,au,eu,eu,ou,ou,a,a,a,a,a,o,o,o,o,o,o,e,e,e,e,e/,e/,e/,i,i,i,w,w,w,i/,u,u/,a/
+F=a/,os,os,os,ion,on,e/,ia,ia,ei,w,e/s,a/s,ios,ios,os,e/,e/,os,omai,iwn,is,omi,omi,omai,os,e/
+B=ng,ll,lph,thl,sth,sch,rt,ndr,nthr,nt,thn,kt,mm,rg,st,st,st,st,sp,kn,rch,rx,phr,rb,lt,gn,sk,sk,sk,xp,tt,nch,lp,mp,mp,nn,nn,ll,nn,ll,ll,mm,mm,rm,rch,chth,tr,pp,rd,mb,nth
+I=kr,bl,h,gr,kl,pl,pl,pr,st,sph,tr,phth,chr,kl,chr

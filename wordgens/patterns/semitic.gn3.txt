@@ -1,0 +1,4 @@
+10
+BASE=<C> <C>,<C> <C> <C>,<C>,<C> <C>,<C> <C> <C>
+C=p,t,k,b,d,g,ph,f,s,th,sh,kh,bh,v,z,dh,zh,gh,c,j,',",h,w,r,x,l,m,n,ng
+V=ao,oi,a,e,i,o,u,ae,ee,ie,oe,ue,uu,aa

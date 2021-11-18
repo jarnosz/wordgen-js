@@ -1,0 +1,5 @@
+20
+BASE=<SYL>,<SYL><SYL>,<SYL><SYL><SYL>,<SYL><C>,<SYL><SYL><C>
+SYL=<C><V>
+C=p,b,k,g,kh,gh,t,d,th,dh,sh,zh,s,z,',",lh,l,rh,r,hh,h
+V=a,e,i,o,u,â,ê,ê,ô,û,ü,ä

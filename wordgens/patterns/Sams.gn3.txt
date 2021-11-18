@@ -1,0 +1,10 @@
+20
+BASE=<SYLLABLE>,<SYLLABLE><SYLLABLE>,<SYLLABLE><SYLLABLE><SYLLABLE>
+SYLLABLE=<C_INIT><V>,<C_INIT><V><C_FINI>
+C_INIT=<C>,<U>
+C_FINI=<C>,<W>
+C=l,m,n,r,w,'hr,'hm,b,d,v,g,j,z,x,p,t,f,k,c,s,q,th,th'
+V=a,e,i,o,u,â,ê,î,ô,û
+B=bs,dh,dm,ft,kq,rcr,rpl,sr,zr,sty,xr,ngl,ngn,ngr,nkl,nsw,nv,nf,mb,bd,dv,ksp,kst,ldn,lr,fr,gr,kr,kl,qr,pt,rb,pl,sk,skl,skr,skw,sl,sp,spl,spr,st,thl,tr,tw,st,str,kw,dz,pr,rl,rg,rm,rn,rt,nk,ns,nz,nt,ks,lk,kt,ld,lf,lt,ls,mp,nd,ng,lms,lm,h,y
+U=fr,pr,gr,kr,kl,qr,pl,sk,skl,skr,skw,sl,sp,spl,spr,st,thl,tr,tw,st,str,kw,h,y
+W=dz,rl,rg,rm,rn,rb,rt,nk,ns,nz,nt,ks,lk,kt,ld,lf,lt,ls,mp,nd,ng,lms,lm,pt

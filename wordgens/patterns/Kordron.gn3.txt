@@ -1,0 +1,10 @@
+20
+BASE=<START><V><FINAL>,<START><V><FINAL><V>
+START=<C>,<C><R>
+FINAL=<N>,<N><K>,<K>
+C=b,d,g,k,m,s,f,t
+R=R,r,L,l
+N=N,n,R,r,L,l
+V=a,e,e,e,i,i,i,o,u,u,u,u
+K=b,d,g,k,s,f,t
+W7:GENSYM=b|d|g|k|s|f|t

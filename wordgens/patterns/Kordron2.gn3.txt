@@ -1,0 +1,11 @@
+20
+BASE=<START><V><FINAL>,<START><V><FINAL><V>
+START=<C>,<C><R>
+FINAL=<N>,<N><K>,<K>
+C=B/b ,b/p ,D/d ,d/t ,G/g ,g/k ,H/gh ,h/kh ,M/m ,m/mh ,Z/z ,z/s ,S/zh ,s/sh ,V/pv ,v/pf ,T/dh ,t/th 
+R=r/r ,l/l ,w/w 
+N=n/n ,r/r ,l/l 
+V=a/a ,e/e ,i/i ,o/o ,u/u ,A/ae ,E/ee ,I/ie ,O/oe ,U/uu ,y/ue 
+K=B/b ,b/p ,D/d ,d/t ,G/g ,g/k ,H/gh ,h/kh ,Z/z ,z/s ,S/zh ,s/sh ,V/pv ,v/pf ,T/dh ,t/th 
+U=ab de ghi  lmno  rstuvw yz
+N=  c  f   jkL N pqR    WxY

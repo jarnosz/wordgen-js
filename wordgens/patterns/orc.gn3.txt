@@ -1,0 +1,4 @@
+20
+BASE=root <C><C><C>,form 1<V>2<V>3<V>,form 1<V>23<V>,xfix <V><C>,xfix <V><C><V>,xfix <V><C><C>
+C=B/b ,D/d ,G/g ,Z/z ,V/v ,T/dh ,J/j ,K/gh ,S/zh ,Y/y ,L/l ,W/w ,C/lv ,P/pv ,R/r ,b/p ,d/t ,g/k ,z/s ,v/f ,t/th ,j/ch ,k/kh ,s/sh ,y/yh ,l/lh ,w/wh ,c/lf ,p/pf ,r/rh
+V=a!o,a!o,!oi,!oi,a,e,e,e,i,i,i,o,o,o,o,u,u,u,u,!o,!o,!o,!a,!a,!a,!e,!e,!e,!i,!i,!i,!u
