@@ -1,2 +1,2 @@
 # wordgen-js
-javascripts to generate words for conlangs
+WinScripts to generate words for conlangs
